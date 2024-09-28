@@ -1,4 +1,4 @@
-# Make sure you have Python installed or this won't work. https://www.python.org/ftp/python/3.12.6/python-3.12.6-amd64.exe
+# Make sure you have Python installed or this won't work (Specifically version 3.11). https://www.python.org/ftp/python/3.11.9/python-3.11.9-amd64.exe
  Step 1: Go on Discord Developer Portal (https://discord.com/developers/applications)
  
  Step 2: Click on New Application and create your bot.
