@@ -18,3 +18,5 @@
  Step 9: Click on the rizz.bat file OR go on the command prompt and type "python [file path]\main.py"
  
  Step 10: Once your bot is online just type "skibidi" and it will nuke the server.
+
+# Also I don't recommend using this more than 2 times a day to avoid getting blocked by the Discord API
