@@ -20,3 +20,5 @@
  Step 10: Once your bot is online just type "skibidi" and it will nuke the server.
 
 # Also I don't recommend using this more than 2 times a day as you could potentially get blocked by the Discord API
+
+(also credits to chatgpt)
